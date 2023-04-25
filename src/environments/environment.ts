@@ -5,13 +5,13 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "",
-    authDomain: "",
-    databaseURL: "",
-    projectId: "",
-    storageBucket: "",
-    messagingSenderId: "",
-    appId: ""
+    apiKey: "AIzaSyDT0cSV_7ctQ5gV7k0Ctywsi5hw3l9brPI",
+    authDomain: "travelplanning-dev-24291.firebaseapp.com",
+    databaseURL: "https://travelplanning-dev-24291.firebaseio.com",
+    projectId: "travelplanning-dev-24291",
+    storageBucket: "travelplanning-dev-24291.appspot.com",
+    messagingSenderId: "63197782255",
+    appId: "1:63197782255:web:8f0308ab918b41b5cf3b1a"
   }
 };
 
